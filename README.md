@@ -1,27 +1,40 @@
-## 🚀 Abdul Wahab | High-Performance Computing & Backend Engineer
-I am a MERN Stack Developer at QF Network and BSCS Student  focused on building scalable backend systems and optimizing AI infrastructure. Currently, I am contributing to Google's JAX and Tunix repositories, where I help optimize numerical computing and reinforcement learning libraries used by researchers worldwide.
+## 🚀 Abdul Wahab | AI Automation • Backend • Distributed Systems
 
+AI Engineer focused on building production-grade backend systems, intelligent automation workflows, and scalable AI infrastructure.
 
-🔭 Currently Working: Building scalable REST APIs and custom Shopify apps at QF Network.
+Currently working as an AI Automation Engineer, designing event-driven architectures, multi-agent workflows, and high-throughput backend services using Python, FastAPI, Vertex AI, Docker, and modern cloud tooling.
 
+Passionate about distributed systems, optimization, and turning research ideas into production systems.
 
-🧠 Problem Solving: Crushed 750+ LeetCode problems and ranked in the Top 17% on Kaggle (CSIRO - Image2Biomass).
+---
 
+🔭 Currently Building:
+Production AI automation systems, REST APIs, event pipelines, and scalable backend infrastructure.
 
-⚡ Optimization Junkie: Reduced FCP by 30% for global React apps and implemented lazy execution logic in JAX.
+🧠 Competitive Programming:
+1000+ LeetCode problems • Guardian (2235) • CodeChef 6★ • Kaggle Competitions Expert.
 
+⚡ Engineering Wins:
+Reduced p99 API latency by 40%, built semantic retrieval systems with pgvector, and deployed AI pipelines handling real-world business workflows.
 
-🌱 Learning: Advanced AI systems, JAX, and deep system architecture.
+🌱 Currently Exploring:
+Distributed systems, agentic AI, inference optimization, JAX, and large-scale backend architecture.
+
+---
 
 ## 🛠️ Technical Arsenal
 
-Languages: Python (Advanced), C++ (DSA), TypeScript/JavaScript.
+### Languages
+Python • Go • Java • TypeScript • C++ • SQL
 
+### Backend Engineering
+FastAPI • Spring Boot • NestJS • REST APIs • gRPC • GraphQL • PostgreSQL • Redis • Apache Kafka
 
-Backend: Node.js, Express, Prisma, GraphQL, SQL, MongoDB.
+### AI & Applied ML
+PyTorch • TensorFlow • JAX • LangGraph • LangChain • Vertex AI • Gemini • OpenCV • RAG Systems
 
+### Automation & Infrastructure
+n8n • Docker • Kubernetes • Linux • GitHub Actions • CI/CD • Google Cloud Platform
 
-AI/Research: JAX, XLA, NumPy, Pandas, Computer Vision.
-
-
-Cloud/DevOps: Google Cloud (BigQuery, Vertex AI), Docker, Linux.
+### Databases
+PostgreSQL • Redis • Supabase • PGVector • MongoDB
